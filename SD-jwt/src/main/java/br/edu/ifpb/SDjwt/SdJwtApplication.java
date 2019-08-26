@@ -1,4 +1,4 @@
-package br.edu.ifpb.SDjwt.view;
+package br.edu.ifpb.SDjwt;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
